@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onyinyechi Berkley Jones</h1>
-<h3 align="center">A data scientist leveraging maA data scientist utilizing machine learning and Python to extract valuable insights.chine learning and Python to uncover meaningful insights.</h3>
+<h3 align="center">A data scientist leveraging    machine learning and Python to extract valuable insights.chine learning and Python to uncover meaningful insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onyi11&label=Profile%20views&color=0e75b6&style=flat" alt="onyi11" /> </p>
 
